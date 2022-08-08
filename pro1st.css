@@ -1,0 +1,26 @@
+/* body {
+  background-color: rgb(252, 193, 111) !important;
+} */
+.col1 {
+  border-radius: 27px;
+  background: rgb(254, 243, 231);
+}
+.btn1 {
+  background-color: #fe8235 !important;
+  color: #fff !important;
+  border-radius: 5px !important;
+}
+.text-brown {
+  color: rgba(87, 57, 38, 1);
+}
+
+.text-orange {
+  color: #fe8235;
+}
+.col2 {
+  border-radius: 30px;
+  background: rgb(255, 247, 238);
+}
+.py-2 {
+  padding-bottom: 0% !important;
+}

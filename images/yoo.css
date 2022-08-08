@@ -1,0 +1,13 @@
+.naviboy a {
+  text-decoration: none;
+}
+.navlists li {
+  display: inline-block;
+  list-style: none;
+}
+.navlists li a {
+  font-size: 26px;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+}
